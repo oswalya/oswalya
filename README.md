@@ -1,18 +1,16 @@
 # Hi there 👋, my name is Björn
   
-![ ](https://media-exp1.licdn.com/dms/image/C4D16AQGGPiP_kq_ETg/profile-displaybackgroundimage-shrink_200_800/0?e=1603324800&v=beta&t=H4UBEuWcHbWp71_ajTknfOGfO_iuvk7R3KyiRI0rkeg)
-
 ## I ...
 
 - used to be a software developer
 - am experienced in QA topics and CI/CD
 - am passionate about system engineering
 - build my profession around DevOps and cultural change
-- am currently extending my horizon in the cloud
+- am catching clouds in the sky
 
 ## Skills
 
-GitOps, Dev[Sth]Ops, GCP, IaC, GoLang, Architecture, many more...
+GitOps, Dev[Sth]Ops, GCP, AWS, IaC, Architecture, maybe more...
 
 ## Links
 
